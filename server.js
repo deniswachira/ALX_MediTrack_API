@@ -22,7 +22,7 @@ app.use('/api/users', require('./routes/userRoute'));
 app.use('/api/medicalhistory', require('./routes/medicalHistoryRoutes'))
 
 app.use('/', function (req, res) {
-  res.status(200).send(`Welcome to Api`);
+  res.status(200).send(`Welcome to MediTrackApi`);
 });
 
 // Connect to database

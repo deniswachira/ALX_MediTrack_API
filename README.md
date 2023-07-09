@@ -5,11 +5,11 @@
   
   3.To clone the repository to your local machine use this command.
   
-    git clone https://github.com/teamAfyaTechs/GOL-AfyatechsAPI.git
+    git clone https://github.com/deniswachira/ALX_MediTrack_API.git
   
   4.Navigate to the directory of the cloned repository.use this command 
   
-    cd GOL-AfyatechsAPI
+    cd ALX_MediTrack_API
   
   5.Install the dependencies of the project. Use 
   
